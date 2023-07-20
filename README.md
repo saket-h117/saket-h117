@@ -2,7 +2,7 @@
 [![MasterHead](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)](https://saket-h117.io)
 
 # 💫 About Me:
-🔭 I’m currently working on web development and <br>👯 I’m undergraduate in stream of Mechanical Engineering<br>🌱 I’m currently learning AUTOCAD, Catia v5<br>💬 Ask me about basic python, c languages, <br>⚡ Fun fact Eger and deep dive into new things
+🔭 I’m currently working on web development  <br>👯 I’m undergraduate in stream of Mechanical Engineering<br>🌱 I’m currently learning AUTOCAD, Catia v5<br>💬 Ask me about basic python, c languages, <br>⚡ Fun fact Eger and deep dive into new things
 
 
 ## 🌐 Socials:
